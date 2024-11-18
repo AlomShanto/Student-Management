@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shanto\\Projects\\Student Management\\server\\Server.csproj": {}
+    "C:\\Users\\shanto\\Projects\\Student Management\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shanto\\Projects\\Student Management\\server\\Server.csproj": {
+    "C:\\Users\\shanto\\Projects\\Student Management\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shanto\\Projects\\Student Management\\server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\shanto\\Projects\\Student Management\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\shanto\\Projects\\Student Management\\server\\Server.csproj",
+        "projectPath": "C:\\Users\\shanto\\Projects\\Student Management\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\shanto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shanto\\Projects\\Student Management\\server\\obj\\",
+        "outputPath": "C:\\Users\\shanto\\Projects\\Student Management\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shanto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
